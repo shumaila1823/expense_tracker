@@ -1,6 +1,6 @@
-# expense_tracker
-Expense Tracker App:
-1. Definition
+# Expense_tracker
+
+1. Definition:
 The Expense Tracker App is a simple software tool that helps users record, manage, and view their spending habits.
 It allows users to add expenses, categorize them (like Food, Bills, Transport), view all expenses neatly, search by category, and see the total amount spent.
 
